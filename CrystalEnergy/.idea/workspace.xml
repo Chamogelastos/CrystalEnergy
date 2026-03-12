@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f660080-b582-4866-95d9-542c77352744" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Animation/animation1.kra" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reference/kizoy.kra" beforeDir="false" afterPath="$PROJECT_DIR$/../Reference/kizoy.kra" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1772812485513</updated>
-      <workItem from="1773320470579" duration="1541000" />
+      <workItem from="1773320470579" duration="2983000" />
     </task>
     <servers />
   </component>
