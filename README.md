@@ -1,3 +1,3 @@
-![LOGO](./Assets/logo.jpeg)
+![LOGO](./Assets/Logo/logo.jpeg)
 # Crystal Energy
-Ngl I just want to make an anime with my friends
+This is the group project that took almost the entire year, got deleted 1 gazillion times and we're still here
